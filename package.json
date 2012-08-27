@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "cartodb_api_proxy",
+    "description": "high speed api proxy for cartodb API",
+    "version": "0.0.1",
+    "author": {
+        "name": "Javi Santana",
+        "url": "http://vizzuality.com",
+        "email": "jsantana@vizzuality.com"
+    },
+    "dependencies": {
+      "restify": "",
+      "http-proxy": "",
+      "underscore": ""
+    },
+    "devDependencies": {
+        "mocha": "1.2.1",
+        "superagent": ""
+    },
+    "scripts": {
+    },
+    "engines": { "node": ">= 0.4.1" }
+}
