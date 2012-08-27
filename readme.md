@@ -1,6 +1,7 @@
 
 start the server:
 
+    $ npm install
     $ node app.js  development.localhost.lan 82489986771c006b2736a128de304e110f27ec8b
     myapp listening at http://0.0.0.0:9090
 
