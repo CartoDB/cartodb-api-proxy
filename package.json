@@ -1,5 +1,6 @@
 {
     "private": true,
+    "main": "./lib/index.js",
     "name": "cartodb_api_proxy",
     "description": "high speed api proxy for cartodb API",
     "version": "0.0.1",
